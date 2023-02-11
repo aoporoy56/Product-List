@@ -1,0 +1,38 @@
+[
+    {
+        "name":"Daily 3.0 Shoes",
+        "details":"Men's Essentials",
+        "image":"shoes1.jpg",
+        "price":"30$"
+    },
+    {
+        "name":"Cloudfoam Pure 2.0",
+        "details":"Women's Essentials",
+        "image":"shoes2.jpg",
+        "price":"30$"
+    },
+    {
+        "name":"Adilette Shower",
+        "details":"Women's Sportswear",
+        "image":"shoes3.jpg",
+        "price":"30$"
+    },
+    {
+        "name":"Multix Shoes",
+        "details":"Youth Lifestyle",
+        "image":"shoes4.jpg",
+        "price":"30$"
+    },
+    {
+        "name":"Ultraboost 22",
+        "details":"Men's Running",
+        "image":"shoes5.jpg",
+        "price":"30$"
+    },
+    {
+        "name":"Astir Thebe",
+        "details":"Wormen's Originals",
+        "image":"shoes6.jpg",
+        "price":"30$"
+    }
+]
